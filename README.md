@@ -26,7 +26,7 @@
 <!--                 SOCIAL LINKS SECTION                 -->
 <!-- ---------------------------------------------------- -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Coding profiles:</h3>
 <p align="left">
 
  <!-- <a href="https://codepen.io/0mkumarray" target="blank">
