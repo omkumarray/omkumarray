@@ -56,10 +56,10 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" 
         alt="gfg" height="30" width="40" style="margin-right: 25px;" />
     </a>
-      <a href="https://linkedin.com/in/omkumarray" target="blank">
+     <!-- <a href="https://linkedin.com/in/omkumarray" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
         alt="linkedin" height="30" width="40" style="margin-right: 25px;" />
-    </a>
+    </a> -->
 
 </p>
 
