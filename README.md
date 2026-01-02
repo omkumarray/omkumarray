@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Crafting interactive web experiences & strengthening my problem-solving skills through real-world projects.**
 
-- 🌱 I’m currently learning **Frontend + Backend → mastering the MERN stack.**
+- 🌱 I’m currently learning **the MERN stack.**
 
 - 👯 I’m looking to collaborate on **Creative web apps, full-stack experiments, and anything that challenges logic + design.**
 
