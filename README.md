@@ -1,148 +1,34 @@
-<!-- ---------------------------------------------------- -->
-<!--                 HEADER SECTION                       -->
-<!-- ---------------------------------------------------- -->
+<h2 data-importer="text" align="left">Hi 👋! My name is Om and I'm a Front End Developer.</h2>
 
-<h1 align="center">Hi 👋, I'm Om Kumar Ray</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<!-- ---------------------------------------------------- -->
-<!--                 ABOUT / DETAILS SECTION              -->
-<!-- ---------------------------------------------------- -->
-
-- 🔭 I’m currently working on **Crafting interactive web experiences & strengthening my problem-solving skills through real-world projects.**
-
-- 🌱 I’m currently learning **the MERN stack.**
-
-- 👯 I’m looking to collaborate on **Creative web apps, full-stack experiments, and anything that challenges logic + design.**
-
-- 🤝 I’m looking for help with **Scaling MERN applications and deploying production-ready systems.**
-
-- 💬 Ask me about **C++, C, Java, HTML, CSS, SQL, JavaScript, React**
-
-- 📫 How to reach me **27omrajput@gmail.com**
-
-
-<!-- ---------------------------------------------------- -->
-<!--                 SOCIAL LINKS SECTION                 -->
-<!-- ---------------------------------------------------- -->
-
-<h3 align="left">Coding profiles:</h3>
-<p align="left">
-
- <!-- <a href="https://codepen.io/0mkumarray" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" 
-        alt="codepen" height="30" width="40" style="margin-right: 25px;" />
-    </a>
-    -->
-
-   <a href="https://www.codechef.com/users/omkumarray" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" 
-        alt="codechef" height="30" width="40" style="margin-right: 25px;" />
-    </a>
-
-  <a href="https://www.hackerrank.com/omkumarray" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" 
-        alt="hackerrank" height="30" width="40" style="margin-right: 25px;" />
-    </a>
-    <a href="https://codeforces.com/profile/omkumarray" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" 
-        alt="codeforces" height="30" width="40" style="margin-right: 25px;" />
-    </a>
-    <a href="https://www.leetcode.com/omkumarray" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
-        alt="leetcode" height="30" width="40" style="margin-right: 25px;" />
-    </a>
-    <a href="https://auth.geeksforgeeks.org/user/omkumarray" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" 
-        alt="gfg" height="30" width="40" style="margin-right: 25px;" />
-    </a>
-     <!-- <a href="https://linkedin.com/in/omkumarray" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-        alt="linkedin" height="30" width="40" style="margin-right: 25px;" />
-    </a> -->
-
-</p>
-
-
-<!-- ---------------------------------------------------- -->
-<!--                 LANGUAGES & TOOLS                    -->
-<!-- ---------------------------------------------------- -->
-
-<h3 align="left">Languages and Tools:</h3>
-
-<!-- Each tool icon also spaced using margin-right -->
-<p align="left">
-    <a href="https://www.cprogramming.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" 
-        alt="c" width="40" height="40" style="margin-right: 25px;" />
-    </a>
-
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" 
-        alt="cplusplus" width="40" height="40" style="margin-right: 25px;" />
-    </a>
-   <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
-        alt="html5" width="40" height="40" style="margin-right: 25px;" />
-    </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
-        alt="css3" width="40" height="40" style="margin-right: 25px;" />
-    </a>
-   <!-- <a href="https://expressjs.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" 
-        alt="express" width="40" height="40" style="margin-right: 25px;" />
-    </a> -->
- 
-   <a href="https://www.java.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
-        alt="java" width="40" height="40" style="margin-right: 25px;" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
-        alt="javascript" width="40" height="40" style="margin-right: 25px;" />
-    </a>
-      <!-- <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" 
-        alt="mongodb" width="40" height="40" style="margin-right: 25px;" />
-    </a> -->
-    <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
-        alt="mysql" width="40" height="40" style="margin-right: 25px;" />
-    </a>
-     <!--  <a href="https://nodejs.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" 
-        alt="nodejs" width="40" height="40" style="margin-right: 25px;" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" 
-        alt="react" width="40" height="40" style="margin-right: 25px;" />
-    </a> -->
-    
-
-</p>
-
-<!-- ---------------------------------------------------- -->
-<!--                 RECENT ACTIVITY (Medium posts)       -->
-<!-- ---------------------------------------------------- -->
-
-<div data-importer="activities" align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
-
-<!-- ---------------------------------------------------- -->
-<!--                 GITHUB STATS                         -->
-<!-- ---------------------------------------------------- -->
+###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/omkumarray/omkumarray/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/omkumarray/omkumarray/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/omkumarray/omkumarray/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/omkumarray/omkumarray/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+</div>
+
+###
+
+<div data-importer="socials" align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+</div>
+
+###
